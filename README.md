@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**omar-dahir/omar-dahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I build the bridge between the laboratory bench and the data.**
 
-Here are some ideas to get you started:
+Lab technician in training and an AI & automation builder. I help turn raw
+laboratory data into something that *works* — caught errors, visible trends,
+and standardised, interoperable results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I focus on
+- Lab data → standards: **HL7 v2 & FHIR** interoperability, built on real lab data
+- **AI & automation**: I direct AI to build data systems, then verify the output is correct
+- Quality & trends: finding the patterns a simple limit-check can't see
+- Building toward the healthcare & lab sector in the **GCC**
+
+### Currently
+- Studying laboratory technology (analytical & microbiology)
+- Building a lab-result → FHIR pipeline as a proof of concept
+- Running **flow·tic**, my AI & automation consultancy
+
+### Toolbox
+`FHIR` · `HL7 v2` · `Make.com` · `Supabase / PostgreSQL` · `SQL` · `n8n`
